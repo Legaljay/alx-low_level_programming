@@ -1,0 +1,1 @@
+Pointets, arrys and strings
